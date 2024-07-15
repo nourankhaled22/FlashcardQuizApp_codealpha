@@ -1,0 +1,1 @@
+ C:\\Users\\user\\Downloads\\codealpha_tasks_Flashcard-Quiz-App-main\\codealpha_tasks_Flashcard-Quiz-App-main\\.dart_tool\\flutter_build\\df70fb58cc6a54e16829f437be0531b8\\native_assets.yaml: 
