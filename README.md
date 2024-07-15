@@ -1,6 +1,6 @@
 # flashcard
 
-A new Flutter project.
+Create Custom Flashcards with glassmorphism design
 
 ## Getting Started
 
