@@ -53,7 +53,7 @@ class _QuizScreenState extends State<QuizScreen> {
                 padding: const EdgeInsets.all(16.0),
                 child: Text(
                   widget.flashcards[currentFlashcardIndex].question,
-                  style: TextStyle(fontSize: 25.0, color: Colors.indigo,fontWeight: FontWeight.bold),
+                  style: TextStyle(fontSize: 25.0, color: Colors.indigo, fontWeight: FontWeight.bold),
                 ),
               ),
             ),
@@ -75,7 +75,7 @@ class _QuizScreenState extends State<QuizScreen> {
             onPressed: () {
               checkAnswer(i);
             },
-            child: Text(options[i], style: TextStyle(color: Colors.indigo,fontSize: 25.0,fontWeight: FontWeight.bold)),
+            child: Text(options[i], style: TextStyle(color: Colors.indigo, fontSize: 25.0, fontWeight: FontWeight.bold)),
             style: ElevatedButton.styleFrom(
               backgroundColor: Colors.transparent,
               shadowColor: Colors.transparent,
